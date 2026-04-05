@@ -27,7 +27,7 @@ I specialize in bridging the gap between complex health data and actionable nutr
 ---
 
 ### 👋 About Me
-I am a "Unicorn" candidate—a Data Analyst who understands the biological reality behind the numbers and the operational rigor of a global supply chain. With 5 years of experience at Owens & Minor, I led quality control data initiatives ensuring 100% integrity for high-volume equipment tracking. My goal is to leverage my ISSA Nutritionist certification and Merit America training to build data-driven solutions for health-tech and quality-driven leaders like HSAG, ŌURA, or Virta Health.
+I am a "Unicorn" candidate—a Data Analyst who understands the biological reality behind the numbers and the operational rigor of a global supply chain. With 5 years of experience at Owens & Minor, I led quality control data initiatives ensuring 100% integrity for high-volume equipment tracking. My goal is to leverage my ISSA Nutritionist certification and Merit America training to build data-driven solutions for health-tech and quality-driven leaders like HSAG, ŌURA, or Virta Health. When I'm not querying databases, I'm staying current on metabolic health science and developing Lunora Bloom, a personalized mantra ecosystem designed to deliver daily, data-driven wellness insights to help users thrive.
 
 ---
 
