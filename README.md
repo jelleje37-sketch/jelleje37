@@ -27,7 +27,7 @@ I specialize in bridging the gap between complex health data and actionable nutr
 ---
 
 ### 👋 About Me
-I am a "Unicorn" candidate—a data analyst who understands the biological reality behind the numbers. My goal is to work with remote-first health-tech companies like **ZOE, Levels, or Nutrisense** to build data-driven solutions for personalized health. When I'm not querying databases, I'm staying current on metabolic health science and refining my "Ultra-Processed Audit" methodology.
+I am a "Unicorn" candidate—a Data Analyst who understands the biological reality behind the numbers and the operational rigor of a global supply chain. With 5 years of experience at Owens & Minor, I led quality control data initiatives ensuring 100% integrity for high-volume equipment tracking. My goal is to leverage my ISSA Nutritionist certification and Merit America training to build data-driven solutions for health-tech and quality-driven leaders like HSAG, ŌURA, or Virta Health.
 
 ---
 
