@@ -19,7 +19,7 @@ I specialize in bridging the gap between complex health data and actionable nutr
 * **[The Ultra-Processed Audit](https://www.kaggle.com/code/lunorabloom/2026-audit-ultra-processed-foods-metabolism):** Developed a Python-driven pipeline to sanitize "dirty" nutritional data and identify health-washing trends. Utilized 3D scatter plots and boxplots to visualize glycemic risk vs. nutrient density.
 
 #### ⌚ Capstone Project: Health-Tech Wearable Analysis
-* **[FitLife360 Wellness Audit](https://www.kaggle.com/code/lunorabloom/2026-audit-ultra-processed-foods-metabolism):** Processed millions of biometric entries using **R** and **tidyr**. Engineered visualizations in **ggplot2** to correlate lifestyle habits with metabolic stress markers for stakeholder reporting.
+* **[FitLife360 Wellness Audit](https://www.kaggle.com/code/lunorabloom/wellness-audit-fitlife360-eda-insights):** Processed millions of biometric entries using **R** and **tidyr**. Engineered visualizations in **ggplot2** to correlate lifestyle habits with metabolic stress markers for stakeholder reporting.
 
 #### 📈 Excel Project: Operational Efficiency Dashboard
 * **Supply Chain Metrics:** Visualizing high-volume equipment tracking and error-reduction trends based on 5+ years of leadership experience at Owens & Minor.
