@@ -10,9 +10,9 @@ I specialize in bridging the gap between complex health data and actionable nutr
 * **Languages & Tools:** SQL, Python, R, Microsoft Excel, Google BigQuery
 * **Visualization:** Tableau, Plotly Express, Seaborn, ggplot2, Matplotlib
 * **Domain Expertise:** Clinical Nutrition, Metabolic Health, Health-Tech, Logistics, Supply Chain Operations
+
 ---
 
-### 📂 Portfolio Projects
 ### 📂 Portfolio Projects
 
 #### 🍎 Python Project: Metabolic Health Audit
@@ -23,13 +23,16 @@ I specialize in bridging the gap between complex health data and actionable nutr
 
 #### 📈 Excel Project: Operational Efficiency Dashboard
 * **Supply Chain Metrics:** Visualizing high-volume equipment tracking and error-reduction trends based on 5+ years of leadership experience at Owens & Minor.
-### 👋 About Me
-I am a "Unicorn" candidate—a Data Analyst who understands the biological reality behind the numbers and the operational rigor of a global supply chain. With 5 years of experience at Owens & Minor, I led quality control data initiatives ensuring 100% integrity for high-volume equipment tracking. My goal is to leverage my ISSA Nutritionist certification and Merit America training to build data-driven solutions for health-tech and quality-driven leaders like HSAG, ŌURA, or Virta Health. When I'm not querying databases, I'm staying current on metabolic health science and developing Lunora Bloom, a personalized mantra ecosystem designed to deliver daily, data-driven wellness insights to help users thrive.
 
 ---
-### 🦄 About Me
 
-I am a "Unicorn" candidate—a Data Analyst who understands the biological reality behind the numbers and the operational rigor of a global supply chain. With 5 years of experience at Owens & Minor, I led quality control data initiatives ensuring 100% integrity for high-volume equipment tracking. My goal is to leverage my ISSA Nutritionist certification and Merit America training to build data-driven solutions for health-tech leaders. I am proficient in Python, R, and SQL, with a focus on translating complex biometric data into actionable wellness insights.
+### 👋 About Me
+
+I am a data analyst with a foundation in clinical nutrition, metabolic health, and operational excellence. With 5 years of experience at Owens & Minor, I led quality control data initiatives supporting high-volume equipment tracking with a focus on accuracy, process discipline, and measurable results.
+
+My goal is to combine my ISSA Nutritionist certification, Merit America training, and technical skills in Python, R, and SQL to build data-driven solutions for health-tech and quality-focused organizations. I enjoy translating complex biometric and nutrition data into clear, actionable insights that support better decisions.
+
+When I'm not analyzing data, I'm staying current on metabolic health research and building Lunora Bloom, a personalized mantra ecosystem designed to deliver daily, data-driven wellness insights.
 
 📫 **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/lunorabloom)
 * **Email:** [jennifer.jjohnson.merit@gmail.com]
