@@ -16,13 +16,16 @@ I specialize in bridging the gap between complex health data and actionable nutr
 ### 📂 Portfolio Projects
 
 #### 🍎 Python Project: Metabolic Health Audit
-* **[The Ultra-Processed Audit](https://www.kaggle.com/code/lunorabloom/2026-audit-ultra-processed-foods-metabolism):** Developed a Python-driven pipeline to sanitize "dirty" nutritional data and identify health-washing trends. Utilized 3D scatter plots and boxplots to visualize glycemic risk vs. nutrient density.
+* **[The Ultra-Processed Audit](https://www.kaggle.com/code/lunorabloom/2026-audit-ultra-processed-foods-metabolism):** Built a Python data-cleaning and analysis pipeline to standardize inconsistent nutrition records and flag health-washing patterns. Delivered 3D scatter and boxplot visuals to compare glycemic risk against nutrient density for decision-ready reporting.
 
 #### ⌚ Capstone Project: Health-Tech Wearable Analysis
-* **[FitLife360 Wellness Audit](https://www.kaggle.com/code/lunorabloom/wellness-audit-fitlife360-eda-insights):** Processed millions of biometric entries using **R** and **tidyr**. Engineered visualizations in **ggplot2** to correlate lifestyle habits with metabolic stress markers for stakeholder reporting.
+* **[FitLife360 Wellness Audit](https://www.kaggle.com/code/lunorabloom/wellness-audit-fitlife360-eda-insights):** Processed high-volume biometric records using **R** and **tidyr** and produced **ggplot2** visualizations linking lifestyle behaviors to metabolic stress indicators for stakeholder decisions.
+
+#### 🔬 Featured Project: Cirrhosis Survival Analysis and Predictive Model
+* **[Cirrhosis Survival Analysis and Predictive Model](https://www.kaggle.com/code/lunorabloom/cirrhosis-survival-analysis-and-predictive-model):** Analyzed clinical cirrhosis data to isolate key survival predictors and built a logistic regression model using age, bilirubin, albumin, and disease stage. Improved model accuracy from **0.67 to 0.78** through targeted data preparation and feature scaling.
 
 #### 📈 Excel Project: Operational Efficiency Dashboard
-* **Supply Chain Metrics:** Visualizing high-volume equipment tracking and error-reduction trends based on 5+ years of leadership experience at Owens & Minor.
+* **Supply Chain Metrics:** Designed an executive Excel dashboard to track high-volume equipment flows and error-reduction trends, translating 5+ years of Owens & Minor operational data into clear performance insights.
 
 ---
 
@@ -35,4 +38,4 @@ My goal is to combine my ISSA Nutritionist certification, Merit America training
 When I'm not analyzing data, I'm staying current on metabolic health research and building Lunora Bloom, a personalized mantra ecosystem designed to deliver daily, data-driven wellness insights.
 
 📫 **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/lunorabloom)
-* **Email:** [jennifer.jjohnson.merit@gmail.com]
+* **Email:** [jennifer.jjohnson.merit@gmail.com](mailto:jennifer.jjohnson.merit@gmail.com)
