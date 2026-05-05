@@ -1,0 +1,8 @@
+date,user_id,metabolic_rate,activity_level,daily_steps,sleep_score,processed_food_intake_pct
+2026-05-01,USER_01,1850,Active,10200,85,15
+2026-05-02,USER_01,1850,Sedentary,4500,60,45
+2026-05-03,USER_01,1850,Active,11000,78,20
+2026-05-04,USER_01,1850,Very Active,13500,90,10
+2026-05-05,USER_01,1850,Sedentary,3200,55,60
+2026-05-06,USER_01,1850,Active,9800,82,25
+2026-05-07,USER_01,1850,Sedentary,5100,62,40
