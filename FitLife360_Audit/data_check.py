@@ -1,122 +1,110 @@
+"""
+FitLife360_Audit - Data Ingestion Module
+
+This module handles data validation and ingestion for wellness metrics.
+"""
+
+import logging
+from typing import Dict, List, Any
 import pandas as pd
-import numpy as np
-from typing import Tuple, Dict, Any
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
 
 
-def load_data(file_path: str) -> pd.DataFrame:
-    """
-    Load data from various file formats.
+class DataChecker:
+    """Validates and ingests wellness metrics data."""
     
-    Parameters:
-    -----------
-    file_path : str
-        Path to the data file (CSV, Excel, etc.)
+    def __init__(self):
+        """Initialize the DataChecker instance."""
+        self.data = None
+        logger.info("DataChecker initialized")
     
-    Returns:
-    --------
-    pd.DataFrame
-        Loaded dataframe
-    """
-    if file_path.endswith('.csv'):
-        return pd.read_csv(file_path)
-    elif file_path.endswith(('.xlsx', '.xls')):
-        return pd.read_excel(file_path)
-    else:
-        raise ValueError(f"Unsupported file format: {file_path}")
-
-
-def validate_data_schema(df: pd.DataFrame, required_columns: list) -> Tuple[bool, list]:
-    """
-    Validate that dataframe contains all required columns.
+    def load_data(self, filepath: str) -> pd.DataFrame:
+        """
+        Load data from a CSV file.
+        
+        Args:
+            filepath: Path to the data file
+            
+        Returns:
+            DataFrame containing the loaded data
+        """
+        try:
+            self.data = pd.read_csv(filepath)
+            logger.info(f"Data loaded successfully from {filepath}")
+            return self.data
+        except FileNotFoundError:
+            logger.error(f"File not found: {filepath}")
+            raise
+        except Exception as e:
+            logger.error(f"Error loading data: {str(e)}")
+            raise
     
-    Parameters:
-    -----------
-    df : pd.DataFrame
-        Data frame to validate
-    required_columns : list
-        List of required column names
+    def validate_data(self) -> Dict[str, Any]:
+        """
+        Validate the loaded data against wellness metrics requirements.
+        
+        Returns:
+            Dictionary containing validation results
+        """
+        if self.data is None:
+            logger.error("No data loaded. Call load_data() first.")
+            return {"valid": False, "errors": ["No data loaded"]}
+        
+        validation_results = {
+            "valid": True,
+            "errors": [],
+            "warnings": [],
+            "row_count": len(self.data),
+            "column_count": len(self.data.columns)
+        }
+        
+        # Check for required columns (customize as needed)
+        required_columns = []
+        missing_columns = [col for col in required_columns if col not in self.data.columns]
+        if missing_columns:
+            validation_results["valid"] = False
+            validation_results["errors"].append(f"Missing columns: {missing_columns}")
+        
+        # Check for null values
+        null_counts = self.data.isnull().sum()
+        if null_counts.sum() > 0:
+            validation_results["warnings"].append(f"Null values detected: {null_counts[null_counts > 0].to_dict()}")
+        
+        logger.info(f"Validation completed: {validation_results}")
+        return validation_results
     
-    Returns:
-    --------
-    Tuple[bool, list]
-        Validation status and list of missing columns
-    """
-    missing_columns = [col for col in required_columns if col not in df.columns]
-    return len(missing_columns) == 0, missing_columns
-
-
-def check_missing_values(df: pd.DataFrame) -> Dict[str, int]:
-    """
-    Check for missing values in the dataframe.
-    
-    Parameters:
-    -----------
-    df : pd.DataFrame
-        Data frame to check
-    
-    Returns:
-    --------
-    Dict[str, int]
-        Dictionary with column names and their missing value counts
-    """
-    return df.isnull().sum().to_dict()
-
-
-def check_data_types(df: pd.DataFrame, expected_types: Dict[str, str]) -> Dict[str, Any]:
-    """
-    Validate data types of columns.
-    
-    Parameters:
-    -----------
-    df : pd.DataFrame
-        Data frame to check
-    expected_types : Dict[str, str]
-        Dictionary mapping column names to expected data types
-    
-    Returns:
-    --------
-    Dict[str, Any]
-        Validation results for each column
-    """
-    type_check = {}
-    for col, expected_type in expected_types.items():
-        if col in df.columns:
-            actual_type = str(df[col].dtype)
-            type_check[col] = {
-                'expected': expected_type,
-                'actual': actual_type,
-                'matches': expected_type.lower() in actual_type.lower()
-            }
-    return type_check
-
-
-def prepare_for_ingestion(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Prepare data for ingestion into the wellness metrics database.
-    
-    Parameters:
-    -----------
-    df : pd.DataFrame
-        Raw data frame
-    
-    Returns:
-    --------
-    pd.DataFrame
-        Cleaned and prepared data frame
-    """
-    # Remove duplicate rows
-    df = df.drop_duplicates()
-    
-    # Reset index
-    df = df.reset_index(drop=True)
-    
-    # Convert column names to lowercase and replace spaces with underscores
-    df.columns = df.columns.str.lower().str.replace(' ', '_')
-    
-    return df
+    def ingest_data(self, filepath: str) -> bool:
+        """
+        Complete data ingestion pipeline.
+        
+        Args:
+            filepath: Path to the data file
+            
+        Returns:
+            True if ingestion successful, False otherwise
+        """
+        try:
+            self.load_data(filepath)
+            results = self.validate_data()
+            
+            if results["valid"]:
+                logger.info("Data ingestion successful")
+                return True
+            else:
+                logger.warning("Data ingestion completed with validation errors")
+                return False
+        except Exception as e:
+            logger.error(f"Data ingestion failed: {str(e)}")
+            return False
 
 
 if __name__ == "__main__":
-    print("FitLife360 Data Check Module")
-    print("=" * 50)
-    print("Ready to validate and prepare wellness metrics data.")
+    # Example usage
+    checker = DataChecker()
+    print("FitLife360_Audit Data Checker ready for use")
