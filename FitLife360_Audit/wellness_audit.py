@@ -54,3 +54,4 @@ def load_to_database(csv_file, db_path='wellness.db', table_name='wellness_metri
 # Placeholder for your future dataset path
 # run_audit('wellness_data.csv')
 # load_to_database('wellness_data.csv')
+"Move audit script to project folder"
