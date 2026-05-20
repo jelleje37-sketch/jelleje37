@@ -2,6 +2,8 @@
 
 ### Data Analyst | Strategic Operations Leader | ISSA Certified Nutritionist 🍎📊
 
+🔗 **[Interactive Portfolio Website](https://sites.google.com/view/jenniferjohnsondataanalytics/home)** | 💼 **[LinkedIn Profile](https://linkedin.com/in/jennifer-johnson-0b2350253/)**
+
 I specialize in bridging the gap between complex health data and actionable nutritional insights. With a decade of experience in clinical wellness and high-stakes operations at **Owens & Minor**, I transform raw biometric and operational data into strategic insights that drive measurable health outcomes.
 
 ---
@@ -37,5 +39,5 @@ My goal is to combine my ISSA Nutritionist certification, Merit America training
 
 When I'm not analyzing data, I'm staying current on metabolic health research and building **Lunora Bloom**, a personalized mantra ecosystem designed to deliver daily, data-driven wellness insights.
 
-📫 **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/lunorabloom)
+📫 **Let's Connect:** [https://linkedin.com/in/jennifer-johnson-0b2350253/]
 * **Email:** [jennifer.jjohnson.merit@gmail.com](mailto:jennifer.jjohnson.merit@gmail.com)
