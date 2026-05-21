@@ -17,8 +17,11 @@ I specialize in bridging the gap between complex health data and actionable nutr
 
 ### 📂 Portfolio Projects
 
-#### 🍎 Python Project: Metabolic Health Audit
-* **[The Ultra-Processed Audit](https://www.kaggle.com/code/lunorabloom/2026-audit-ultra-processed-foods-metabolism):** Built a Python data-cleaning and analysis pipeline to standardize inconsistent nutritional data and isolate metabolic impact of ultra-processed food (UPF) intake across diverse dietary patterns.
+#### 🍎 Featured Project: Metabolic Health & Ultra-Processed Food Audit
+
+* **[The Ultra-Processed Audit (Kaggle & BigQuery Pipeline)](https://github.com/jelleje37-sketch/jelleje37/tree/main/bigquery-sql)**: A dual-engine analysis standardizing erratic nutritional data at scale.
+    * **Python Engine:** Built an EDA and data-cleaning pipeline to isolate the metabolic impact of ultra-processed food (UPF) intake across diverse dietary patterns.
+    * **SQL Pipeline (`BigQuery`):** Engineered a modular, 7-CTE production script targeting `~261K` FDA adverse event and product enforcement records to surface demographic risk profiles and severe health outcome trends. Uses advanced regex pattern matching and window function deduplication.
 
 #### ⌚ Capstone Project: Health-Tech Wearable Analysis
 * **[FitLife360 Wellness Audit](https://www.kaggle.com/code/lunorabloom/wellness-audit-fitlife360-eda-insights):** Processed high-volume biometric records using **R** and **tidyr** and produced **comprehensive EDA and predictive insights** for wearable fitness data.
