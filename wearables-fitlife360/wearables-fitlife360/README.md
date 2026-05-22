@@ -1,4 +1,4 @@
-Markdown
+
 # 🏃‍♂️ wearables-fitlife360 / fitlife360_activity_summary.sql
 
 ## 📋 Project Overview
