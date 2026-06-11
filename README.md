@@ -2,13 +2,40 @@
 
 ### Data Analyst | Healthcare Analytics | ISSA Certified Nutritionist 🍎📊
 
-> **Transforming clinical, operational, and wellness data into actionable insights through SQL, Tableau, Python, R, and BigQuery. Passionate about using analytics to improve patient outcomes and supporting evidence-based decision-making.**
+> **Transforming clinical, operational, and wellness data into actionable insights through SQL, Tableau, Python, R, and BigQuery. Passionate about using analytics to improve patient outcomes and support data-driven healthcare decisions.**
 
 🔗 **Interactive Portfolio:** https://sites.google.com/view/jenniferjohnsondataanalytics/home
 
 💼 **LinkedIn:** https://linkedin.com/in/jennifer-johnson-0b2350253/
 
 I combine experience in healthcare operations, nutrition, and data analytics to uncover meaningful insights from complex datasets. My portfolio focuses on healthcare analytics, metabolic health research, and operational excellence.
+
+---
+
+## 🎓 Professional Capstone Project Framework
+
+### 📊 **[NEW] Healthcare Analytics Capstone Template**
+
+I've created a **professional, reusable 13-section capstone framework** for healthcare analytics projects that ensures consistency, clarity, and recruiter-friendliness across all analysis work.
+
+**🔗 [View Complete Guide: HEALTHCARE_ANALYTICS_PORTFOLIO.md](./HEALTHCARE_ANALYTICS_PORTFOLIO.md)**
+
+#### Framework Includes:
+- ✅ Professional 13-section project structure
+- ✅ Complete SQL templates (data cleaning, feature engineering, analysis)
+- ✅ Jupyter notebook templates (EDA, analysis, visualizations)
+- ✅ Organized repository structure
+- ✅ Executive dashboard guidance
+- ✅ Recruiter-friendly documentation
+
+#### Perfect For:
+- Building consistent healthcare analytics projects
+- Showcasing technical and business skills
+- Creating reproducible analysis
+- Impressing recruiters with professional presentation
+
+**📁 [Access Template: capstone-project/](./capstone-project/)**  
+**📖 [Read Usage Guide: CAPSTONE_TEMPLATE_GUIDE.md](./CAPSTONE_TEMPLATE_GUIDE.md)**
 
 ---
 
@@ -90,7 +117,7 @@ I combine experience in healthcare operations, nutrition, and data analytics to 
 
 My background combines healthcare operations, clinical nutrition, and data analytics. I enjoy transforming raw data into meaningful stories that support better decisions and improve patient and organizational outcomes.
 
-I completed the Merit America Data Analytics program while expanding my skills in SQL, Python, R, Tableau, and BigQuery. My long-term goal is to contribute to healthcare organizations by building dashboards and analytics solutions that drive evidence-based decision-making.
+I completed the Merit America Data Analytics program while expanding my skills in SQL, Python, R, Tableau, and BigQuery. My long-term goal is to contribute to healthcare organizations by building scalable analytics solutions that drive clinical and operational excellence.
 
 Outside of analytics, I continue researching metabolic health and wellness while developing projects that combine nutrition science with modern data analytics.
 
