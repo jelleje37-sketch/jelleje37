@@ -2,12 +2,12 @@
 
 ### Data Analyst | Healthcare Analytics | ISSA Certified Nutritionist 🍎📊
 
-> **Transforming clinical, operational, and wellness data into actionable insights through SQL, Tableau, Python, R, and BigQuery. Passionate about using analytics to improve patient outcomes and support data-driven decision making across healthcare and health-tech organizations.**
+> **Transforming clinical, operational, and wellness data into actionable insights through SQL, Tableau, Python, R, and BigQuery. Passionate about using analytics to improve patient outcomes and supporting evidence-based decision-making.**
 
 🔗 **Interactive Portfolio:** https://sites.google.com/view/jenniferjohnsondataanalytics/home
 💼 **LinkedIn:** https://linkedin.com/in/jennifer-johnson-0b2350253/
 
-I combine experience in healthcare operations, nutrition, and data analytics to uncover meaningful insights from complex datasets. My portfolio focuses on healthcare analytics, metabolic health research, clinical outcomes, and operational efficiency using modern analytical tools and visualization techniques.
+I combine experience in healthcare operations, nutrition, and data analytics to uncover meaningful insights from complex datasets. My portfolio focuses on healthcare analytics, metabolic health research, and operational excellence.
 
 ---
 
@@ -73,12 +73,36 @@ I combine experience in healthcare operations, nutrition, and data analytics to 
 
 ---
 
+## 🎯 Core Competencies
+
+**Analytics & Insights:** Data exploration, statistical analysis, predictive modeling, business intelligence, dashboard development
+
+**Healthcare Focus:** Clinical data analysis, population health metrics, patient outcomes research, healthcare operations optimization
+
+**Data Management:** ETL processes, data pipeline development, quality assurance, complex query optimization
+
+**Communication:** Translating technical findings for diverse stakeholders, healthcare visualization best practices, executive reporting
+
+---
+
 ## 👋 About Me
 
 My background combines healthcare operations, clinical nutrition, and data analytics. I enjoy transforming raw data into meaningful stories that support better decisions and improve patient and organizational outcomes.
 
-I completed the Merit America Data Analytics program while expanding my skills in SQL, Python, R, Tableau, and BigQuery. My long-term goal is to contribute to healthcare organizations by building dashboards, predictive analyses, and data-driven solutions that improve population health and operational performance.
+I completed the Merit America Data Analytics program while expanding my skills in SQL, Python, R, Tableau, and BigQuery. My long-term goal is to contribute to healthcare organizations by building dashboards and analytics solutions that drive evidence-based decision-making.
 
 Outside of analytics, I continue researching metabolic health and wellness while developing projects that combine nutrition science with modern data analytics.
 
 📫 **Email:** [jennifer.jjohnson.merit@gmail.com](mailto:jennifer.jjohnson.merit@gmail.com)
+
+---
+
+## 📜 Certifications
+
+✔ Google Data Analytics Professional Certificate
+
+✔ Merit America Data Analytics
+
+✔ ISSA Certified Nutritionist
+
+✔ ISSA Certified Online Personal Trainer
