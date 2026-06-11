@@ -5,6 +5,7 @@
 > **Transforming clinical, operational, and wellness data into actionable insights through SQL, Tableau, Python, R, and BigQuery. Passionate about using analytics to improve patient outcomes and supporting evidence-based decision-making.**
 
 🔗 **Interactive Portfolio:** https://sites.google.com/view/jenniferjohnsondataanalytics/home
+
 💼 **LinkedIn:** https://linkedin.com/in/jennifer-johnson-0b2350253/
 
 I combine experience in healthcare operations, nutrition, and data analytics to uncover meaningful insights from complex datasets. My portfolio focuses on healthcare analytics, metabolic health research, and operational excellence.
