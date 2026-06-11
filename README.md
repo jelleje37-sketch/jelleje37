@@ -2,13 +2,19 @@
 
 ### Data Analyst | Healthcare Analytics | ISSA Certified Nutritionist 🍎📊
 
-> **Transforming clinical, operational, and wellness data into actionable insights through SQL, Tableau, Python, R, and BigQuery. Passionate about using analytics to improve patient outcomes and support data-driven healthcare decisions.**
+> **Transforming clinical, operational, and wellness data into actionable insights through SQL, Tableau, Python, R, and BigQuery. Passionate about using analytics to improve patient outcomes and support evidence-based decision-making.**
 
 🔗 **Interactive Portfolio:** https://sites.google.com/view/jenniferjohnsondataanalytics/home
 
 💼 **LinkedIn:** https://linkedin.com/in/jennifer-johnson-0b2350253/
 
-I combine experience in healthcare operations, nutrition, and data analytics to uncover meaningful insights from complex datasets. My portfolio focuses on healthcare analytics, metabolic health research, and operational excellence.
+I combine experience in healthcare operations, nutrition, and data analytics to uncover meaningful insights from complex datasets. My portfolio focuses on healthcare analytics, metabolic health research, and population health optimization using both clinical datasets and public health data.
+
+---
+
+## 💡 My Philosophy
+
+💡 **My philosophy:** I believe data should do more than explain the past—it should empower organizations to make smarter decisions for the future through clear insights and actionable recommendations.
 
 ---
 
