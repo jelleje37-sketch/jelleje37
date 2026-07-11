@@ -1,142 +1,56 @@
-# Hi, I'm Jennifer Johnson 👋
-
-### Data Analyst | Healthcare Analytics | ISSA Certified Nutritionist 🍎📊
-
-> **Transforming clinical, operational, and wellness data into actionable insights through SQL, Tableau, Python, R, and BigQuery. Passionate about using analytics to improve patient outcomes and support evidence-based decision-making.**
-
-🔗 **Interactive Portfolio:** https://sites.google.com/view/jenniferjohnsondataanalytics/home
-
-💼 **LinkedIn:** https://linkedin.com/in/jennifer-johnson-0b2350253/
-
-I combine experience in healthcare operations, nutrition, and data analytics to uncover meaningful insights from complex datasets. My portfolio focuses on healthcare analytics, metabolic health research, and population health optimization using both clinical datasets and public health data.
+# Hi — I'm Jennifer 👋  
+Data & AI Engineer focused on building reliable data pipelines, optimizing Python workflows, and implementing applied AI/ML systems for production-ready analytics.
 
 ---
 
-## 💡 My Philosophy
+## Technical Toolkit
 
-💡 **My philosophy:** I believe data should do more than explain the past—it should empower organizations to make smarter decisions for the future through clear insights and actionable recommendations.
+### Languages & Core Libraries
+- Python (Pandas, NumPy, SciPy)
+- SQL (Postgres, BigQuery) — relational modeling, window functions
+- R (tidyverse) — exploratory statistics & visualization
+- scikit-learn, statsmodels — classical ML & statistical modelling
+- Plotly, Matplotlib, Seaborn — interactive & static visualization
 
----
+### AI & Machine Learning
+- Supervised learning: logistic regression, tree-based ensembles, regularization, calibration
+- Model evaluation & validation: cross-validation, stratified sampling, ROC/AUC, precision/recall, calibration curves
+- Feature engineering: scaling, encoding, interaction terms, domain-driven variable transformation
+- Model pipelines & reproducibility: scikit-learn Pipelines, joblib, MLflow (tracking & packaging)
+- Large models & generative AI: prompt engineering, embedding-based retrieval, LLM orchestration (GPT-4, Claude, Gemini)
+- Agent frameworks & RAG ecosystems: exposure to LangGraph / AutoGen / CrewAI concepts, vector databases (Milvus, Pinecone, Weaviate), document chunking and semantic search
+- Hyperparameter tuning: grid/random search, Bayesian optimization (Optuna)
 
-## 🎓 Professional Capstone Project Framework
-
-### 📊 **[NEW] Healthcare Analytics Capstone Template**
-
-I've created a **professional, reusable 13-section capstone framework** for healthcare analytics projects that ensures consistency, clarity, and recruiter-friendliness across all analysis work.
-
-**🔗 [View Complete Guide: HEALTHCARE_ANALYTICS_PORTFOLIO.md](./HEALTHCARE_ANALYTICS_PORTFOLIO.md)**
-
-#### Framework Includes:
-- ✅ Professional 13-section project structure
-- ✅ Complete SQL templates (data cleaning, feature engineering, analysis)
-- ✅ Jupyter notebook templates (EDA, analysis, visualizations)
-- ✅ Organized repository structure
-- ✅ Executive dashboard guidance
-- ✅ Recruiter-friendly documentation
-
-#### Perfect For:
-- Building consistent healthcare analytics projects
-- Showcasing technical and business skills
-- Creating reproducible analysis
-- Impressing recruiters with professional presentation
-
-**📁 [Access Template: capstone-project/](./capstone-project/)**  
-**📖 [Read Usage Guide: CAPSTONE_TEMPLATE_GUIDE.md](./CAPSTONE_TEMPLATE_GUIDE.md)**
+### Developer Environment
+- Version control & CI: Git, GitHub, GitHub Actions, unit testing (pytest)
+- Notebooks & reproducible research: Jupyter, nbformat, papermill
+- Data engineering & orchestration: ETL design, Airflow / Prefect concepts, dbt-style transformation thinking
+- Containerization & deployment: Docker, lightweight app packaging for inference
+- Command-line tooling, logging, and lightweight observability for pipelines
 
 ---
 
-## 🛠 Tech Stack
+## Featured Engineering Projects
 
-**Languages & Tools:** SQL, Python, R, Excel, Google BigQuery
-
-**Visualization:** Tableau, Plotly, Matplotlib, ggplot2
-
-**Domain Expertise:** Healthcare Analytics, Clinical Nutrition, Population Health, Metabolic Health, Logistics & Supply Chain Operations
-
----
-
-## 📂 Portfolio Projects
-
-### 🍎 Metabolic Health & Ultra-Processed Food Audit
-
-**Business Question:** How does ultra-processed food consumption relate to metabolic health and adverse health outcomes?
-
-* Developed a Python data-cleaning and exploratory analysis pipeline to standardize nutritional data.
-* Built a modular BigQuery SQL workflow using multiple CTEs to analyze more than **261,000 FDA records**.
-* Identified demographic risk patterns and adverse event trends associated with ultra-processed food intake.
-
-**Links:**
-* [GitHub Repository: BigQuery SQL Pipeline](https://github.com/jelleje37-sketch/jelleje37/tree/main/bigquery-sql)
-* [Kaggle Analysis Notebook](https://www.kaggle.com/code/lunorabloom/2026-audit-ultra-processed-foods-metabolism)
+### Healthcare Analytics — Capstone Framework
+- Objective: Build a reproducible predictive pipeline for a clinical outcome and improve baseline logistic regression performance.
+- Tech stack: Python, Pandas, scikit-learn, joblib, Jupyter Notebooks
+- Key contributions:
+  - Engineered an end-to-end pipeline: raw ingestion → deterministic cleaning → feature engineering → model training → evaluation
+  - Implemented domain-informed transformations (clinical grouping, temporal feature extraction) and robust scaling strategies
+  - Integrated stratified cross-validation, threshold calibration, and calibrated probability outputs for operational use
+- Result: Logistic regression accuracy improved from 0.67 → 0.79 on holdout data; evaluation includes AUC, precision/recall, and calibration analyses for stakeholder review.
+- Artifacts: reproducible notebooks, serialized pipeline (joblib / MLflow-ready), evaluation dashboards (notebooks + figures). (link placeholder)
 
 ---
 
-### ⌚ FitLife360 Wellness Audit
-
-**Business Question:** What trends emerge from wearable biometric data that could improve wellness interventions?
-
-* Used R and tidyverse tools to clean and analyze wearable health data.
-* Created visualizations highlighting activity, sleep, and metabolic trends.
-* Demonstrated practical applications of health-tech analytics for wellness monitoring.
-
-**Links:**
-* [Kaggle: Wellness Audit - FitLife360 EDA Insights](https://www.kaggle.com/code/lunorabloom/wellness-audit-fitlife360-eda-insights)
+### Metabolic Health — Ultra-Processed Food Audit
+- Objective: Engineer a scalable pipeline to quantify relationships between ultra-processed food consumption and metabolic health markers across multiple data sources.
+- Tech stack: Python, Pandas (vectorized transforms), SQL for extraction, Plotly for interactive visualizations
+- Key contributions:
+  - Built a modular ETL to standardize heterogeneous food and clinical datasets: schema alignment, unit normalization, and provenance tracking
+  - Optimized Pandas workflows (categorical dtypes, chunked IO, vectorized ops) to reduce runtime and memory footprint on mid-sized datasets
+  - Constructed interactive dashboards and reproducible EDA notebooks showcasing caloric density, nutrient ratios, and cohort stratification
+- Result: Delivered an audit pipeline with automated cleansing, summary metrics, and visualization artifacts suitable for research replication and stakeholder communication. (link placeholder)
 
 ---
-
-### 🔬 Cirrhosis Survival Analysis Dashboard
-
-**Business Question:** How do disease stage and clinical biomarkers influence patient survival outcomes?
-
-* Analyzed clinical cirrhosis data using Tableau and statistical exploration.
-* Built interactive dashboards displaying mortality, disease progression, and clinical risk indicators.
-* Applied healthcare visualization techniques to communicate findings for non-technical audiences.
-
-**Links:**
-* [Kaggle: Cirrhosis Survival Analysis and Predictive Model](https://www.kaggle.com/code/lunorabloom/cirrhosis-survival-analysis-and-predictive-model)
-
----
-
-### 📈 Supply Chain Operations Dashboard
-
-**Business Question:** How can operational data improve workflow efficiency and quality control?
-
-* Designed an executive dashboard using Excel to monitor equipment movement and operational performance.
-* Applied quality metrics and trend analysis based on years of healthcare logistics experience.
-* Demonstrated how data visualization supports operational decision-making.
-
----
-
-## 🎯 Core Competencies
-
-**Analytics & Insights:** Data exploration, statistical analysis, predictive modeling, business intelligence, dashboard development
-
-**Healthcare Focus:** Clinical data analysis, population health metrics, patient outcomes research, healthcare operations optimization
-
-**Data Management:** ETL processes, data pipeline development, quality assurance, complex query optimization
-
-**Communication:** Translating technical findings for diverse stakeholders, healthcare visualization best practices, executive reporting
-
----
-
-## 👋 About Me
-
-My background combines healthcare operations, clinical nutrition, and data analytics. I enjoy transforming raw data into meaningful stories that support better decisions and improve patient and organizational outcomes.
-
-I completed the Merit America Data Analytics program while expanding my skills in SQL, Python, R, Tableau, and BigQuery. My long-term goal is to contribute to healthcare organizations by building scalable analytics solutions that drive clinical and operational excellence.
-
-Outside of analytics, I continue researching metabolic health and wellness while developing projects that combine nutrition science with modern data analytics.
-
-📫 **Email:** [jennifer.jjohnson.merit@gmail.com](mailto:jennifer.jjohnson.merit@gmail.com)
-
----
-
-## 📜 Certifications
-
-✔ Google Data Analytics Professional Certificate
-
-✔ Merit America Data Analytics
-
-✔ ISSA Certified Nutritionist
-
-✔ ISSA Certified Online Personal Trainer
