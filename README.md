@@ -54,3 +54,7 @@ Data & AI Engineer focused on building reliable data pipelines, optimizing Pytho
 - Result: Delivered an audit pipeline with automated cleansing, summary metrics, and visualization artifacts suitable for research replication and stakeholder communication. (link placeholder)
 
 ---
+
+## Demos
+- Minimal RAG demo: [demos/rag_demo.py](./demos/rag_demo.py) — one-file Retrieval-Augmented Generation example (chunk → embed → FAISS → retrieve → LLM).  
+
