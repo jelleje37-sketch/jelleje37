@@ -70,4 +70,6 @@ I design automated reporting systems and interactive business dashboards that co
 | **Healthcare Predictive Risk Framework**<br>Live Code: [GitHub Repository](https://github.com/jelleje37-sketch/jelleje37/blob/main/HEALTHCARE_ANALYTICS_PORTFOLIO.md) | **Python** • Feature Engineering • Logistic Regression • Scikit-learn Pipelines | Optimizes predictive clinical risk stratification model accuracy from **0.67 to 0.79**, reducing baseline feature engineering cycles by **40%**. |
 | **E-Commerce & Digital Product KPI Tracker**<br>Live Portfolio: [Data Analytics Portfolio](https://sites.google.com/view/jenniferjohnsondataanalytics/home) | **Tableau** • Google BigQuery • SQL views • Multi-platform Data Ingestion | Aggregates unstructured engagement metrics across 8+ e-commerce channels, reducing data latency and sharpening campaign targeting. |
 
+**Data Operations Note:** Dashboards are engineered to ingest automated morning ETL pipeline runs (scheduled via cron/Airflow) with an expected 7:00 AM EST data readiness SLA. Alert exceptions are routed directly to automated monitoring channels for rapid schema validation.
+
 _Note: For live, interactive dashboard sheets and expanded data storytelling artifacts, visit my [Data Analytics Portfolio](https://sites.google.com/view/jenniferjohnsondataanalytics/home)._ 
