@@ -58,3 +58,16 @@ Data & AI Engineer focused on building reliable data pipelines, optimizing Pytho
 ## Demos
 - Minimal RAG demo: [demos/rag_demo.py](./demos/rag_demo.py) — one-file Retrieval-Augmented Generation example (chunk → embed → FAISS → retrieve → LLM).  
 
+
+## Data Visualization & Business Intelligence
+
+I design automated reporting systems and interactive business dashboards that convert complex ETL data streams into actionable decision support. My work focuses on analytics engineering best practices, operational performance optimization, and maintaining absolute data integrity.
+
+| Dashboard Focus | Core Architecture | Key Business Metric Impact |
+|---|---|---|
+| **Wellness & Lifecycle Cohort Audit**<br>Live Portfolio: [Data Analytics Portfolio](https://sites.google.com/view/jenniferjohnsondataanalytics/home) | **R (Tidyr, ggplot2)** • Exploratory data analysis • Behavioral cohort stratification | Processes millions of user entries to map lifestyle stress markers, improving stakeholder decision-making speed by **30%** and throughput efficiency by **35%**. |
+| **Healthcare Predictive Risk Framework**<br>Live Code: [GitHub Repository](https://github.com/jelleje37-sketch/jelleje37/blob/main/HEALTHCARE_ANALYTICS_PORTFOLIO.md) | **Python** • Feature Engineering • Logistic Regression • Scikit-learn Pipelines | Optimizes predictive clinical risk stratification model accuracy from **0.67 to 0.79**, reducing baseline feature engineering cycles by **40%**. |
+| **Operations Dashboard & Data Automation**<br>Live Portfolio: [Data Analytics Portfolio](https://sites.google.com/view/jenniferjohnsondataanalytics/home) | **Tableau** • SQL queries • Advanced Excel dashboards • Dynamic Slicers | Achieved a **100% improvement** in tracking consistency across 10,000+ data rows, reducing manual reporting overhead by **10 hours/week**. |
+| **E-Commerce & Digital Product KPI Tracker**<br>Live Portfolio: [Data Analytics Portfolio](https://sites.google.com/view/jenniferjohnsondataanalytics/home) | **Tableau** • Google BigQuery • SQL views • Multi-platform Data Ingestion | Aggregates unstructured engagement metrics across 8+ e-commerce channels, reducing data latency and sharpening campaign targeting. |
+
+_Note: For live, interactive dashboard sheets and expanded data storytelling artifacts, visit my [Data Analytics Portfolio](https://sites.google.com/view/jenniferjohnsondataanalytics/home)._ 
