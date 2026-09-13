@@ -34,7 +34,7 @@ Data & AI Engineer focused on building reliable data pipelines, optimizing Pytho
 
 ### Project Management & Governance Portfolio
 
-* * **[PulseWell Digital Intake & Client Experience Portal](https://github.com/jelleje37-sketch/pulsewell-pmo-portfolio)**
+* **[PulseWell Digital Intake & Client Experience Portal](https://github.com/jelleje37/pulsewell-pmo-portfolio)**
   * **Scope & Baseline**: Led end-to-end PMO lifecycle governance for a 14-week digital intake and client portal rollout on a $41,900 cost baseline.
   * **Artifact Architecture**: Produced complete 16-deliverable documentation suite across Initiation (D1–D2), Planning (D3–D8), Execution & Monitoring (D9–D14), and Closing (D15–D16).
   * **Governance Controls**: Applied Earned Value Management (EVM), formal Change Control Board (CCB) evaluation for wearable health-data sync (CR-001), QA/UAT sign-offs, and Phase Gate 3 operatio[...]
