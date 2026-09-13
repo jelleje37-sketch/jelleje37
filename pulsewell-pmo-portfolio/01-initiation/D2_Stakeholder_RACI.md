@@ -4,7 +4,8 @@
 **Document Version:** 1.0  
 **Last Updated:** [Date]  
 **Project:** PulseWell Digital Intake & Client Experience Portal  
-**Prepared By:** [Author Name]  
+**Prepared By:** Jennifer Johnson  
+**Role:** Project Manager & Data Analyst  
 
 ---
 
@@ -273,7 +274,7 @@ The Stakeholder Register identifies all individuals and groups with a vested int
 
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
-| 1.0 | [Date] | [Author] | Initial Stakeholder Register & RACI Matrix Creation |
+| 1.0 | [Date] | Jennifer Johnson | Initial Stakeholder Register & RACI Matrix Creation |
 
 ---
 

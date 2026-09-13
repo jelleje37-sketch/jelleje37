@@ -4,7 +4,8 @@
 **Document Version:** 1.0  
 **Last Updated:** [Date]  
 **Project:** PulseWell Digital Intake & Client Experience Portal  
-**Prepared By:** [Author Name]  
+**Prepared By:** Jennifer Johnson  
+**Role:** Project Manager & Data Analyst  
 **Status:** Draft / Approved  
 
 ---
@@ -266,7 +267,7 @@ This Work Breakdown Structure (WBS) decomposes the PulseWell portal initiative i
 | Role | Name | Signature | Date |
 |------|------|-----------|------|
 | Project Sponsor | [Sponsor Name] | ________________ | ______ |
-| Project Manager | [Project Manager Name] | ________________ | ______ |
+| Project Manager | Jennifer Johnson | ________________ | ______ |
 | Solution Architect | [Name] | ________________ | ______ |
 | QA Lead | [Name] | ________________ | ______ |
 | PMO / Governance Lead | [Name] | ________________ | ______ |

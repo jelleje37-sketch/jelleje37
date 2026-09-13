@@ -4,7 +4,8 @@
 **Document Version:** 1.0  
 **Last Updated:** [Date]  
 **Project:** PulseWell Digital Intake & Client Experience Portal  
-**Prepared By:** [Author Name]  
+**Prepared By:** Jennifer Johnson  
+**Role:** Project Manager & Data Analyst  
 **Status:** Draft / Approved  
 
 ---
@@ -223,7 +224,7 @@ The project will use structured feedback loops to validate requirements, reduce 
 | Role | Name | Signature | Date |
 |------|------|-----------|------|
 | Project Sponsor | [Sponsor Name] | ________________ | ______ |
-| Project Manager | [Project Manager Name] | ________________ | ______ |
+| Project Manager | Jennifer Johnson | ________________ | ______ |
 | PMO Lead | [Name] | ________________ | ______ |
 | Communications Lead | [Name] | ________________ | ______ |
 | Stakeholder Representative | [Name] | ________________ | ______ |

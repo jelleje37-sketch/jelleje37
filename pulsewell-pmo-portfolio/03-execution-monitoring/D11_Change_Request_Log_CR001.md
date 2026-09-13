@@ -4,7 +4,8 @@
 **Document Version:** 1.0  
 **Last Updated:** [Date]  
 **Project:** PulseWell Digital Intake & Client Experience Portal  
-**Prepared By:** [Author Name]  
+**Prepared By:** Jennifer Johnson  
+**Role:** Project Manager & Data Analyst  
 **Status:** Under Review / Approved  
 
 ---
@@ -162,7 +163,7 @@ The requested enhancement would allow:
 | Role | Name | Signature | Date |
 |------|------|-----------|------|
 | Change Requestor | [Name] | ________________ | ______ |
-| Project Manager | [Project Manager Name] | ________________ | ______ |
+| Project Manager | Jennifer Johnson | ________________ | ______ |
 | Project Sponsor | [Sponsor Name] | ________________ | ______ |
 | Technical Lead | [Name] | ________________ | ______ |
 | Compliance Lead | [Name] | ________________ | ______ |

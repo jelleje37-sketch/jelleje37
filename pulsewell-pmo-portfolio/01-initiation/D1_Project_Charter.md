@@ -2,7 +2,8 @@
 ## PulseWell Digital Intake & Client Experience Portal
 
 **Project Name:** PulseWell Digital Intake & Client Experience Portal  
-**Project Manager:** [To Be Assigned]  
+**Project Manager:** Jennifer Johnson  
+**Role:** Project Manager & Data Analyst  
 **Sponsor:** [To Be Assigned]  
 **Authorization Date:** [Date]  
 **Charter Version:** 1.0  
@@ -176,7 +177,7 @@ The project aims to enhance the client experience through an intuitive digital i
 
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
-| 1.0 | [Date] | [Author] | Initial Charter Creation |
+| 1.0 | [Date] | Jennifer Johnson | Initial Charter Creation |
 
 ---
 

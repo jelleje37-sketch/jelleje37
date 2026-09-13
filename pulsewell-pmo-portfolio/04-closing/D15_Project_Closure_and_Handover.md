@@ -5,7 +5,8 @@
 **Document Type:** Executive Project Closure and Operational Handover Plan  
 **Project Phase:** Closing / Handover  
 **Closure Date:** 2026-09-13  
-**Prepared By:** PMO / Project Management Office  
+**Prepared By:** Jennifer Johnson  
+**Role:** Project Manager & Data Analyst  
 **Project Status:** Ready for formal closure and operational transition
 
 ---

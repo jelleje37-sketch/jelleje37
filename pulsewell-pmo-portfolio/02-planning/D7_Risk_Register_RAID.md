@@ -4,7 +4,8 @@
 **Document Version:** 1.0  
 **Last Updated:** [Date]  
 **Project:** PulseWell Digital Intake & Client Experience Portal  
-**Prepared By:** [Author Name]  
+**Prepared By:** Jennifer Johnson  
+**Role:** Project Manager & Data Analyst  
 **Status:** Draft / Approved  
 
 ---
@@ -237,7 +238,7 @@ This Risk Register and RAID Log provides a structured view of project-level risk
 | Role | Name | Signature | Date |
 |------|------|-----------|------|
 | Project Sponsor | [Sponsor Name] | ________________ | ______ |
-| Project Manager | [Project Manager Name] | ________________ | ______ |
+| Project Manager | Jennifer Johnson | ________________ | ______ |
 | Risk Manager / PMO Lead | [Name] | ________________ | ______ |
 | Technical Lead | [Name] | ________________ | ______ |
 | Compliance Lead | [Name] | ________________ | ______ |

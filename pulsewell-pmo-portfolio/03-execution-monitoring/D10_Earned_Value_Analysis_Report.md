@@ -4,7 +4,8 @@
 **Document Version:** 1.0  
 **Last Updated:** [Date]  
 **Project:** PulseWell Digital Intake & Client Experience Portal  
-**Prepared By:** [Author Name]  
+**Prepared By:** Jennifer Johnson  
+**Role:** Project Manager & Data Analyst  
 **Status:** Active / Mid-Execution Assessment  
 
 ---
@@ -161,7 +162,7 @@ The PMO and sponsor should convene a focused recovery review to:
 | Role | Name | Signature | Date |
 |------|------|-----------|------|
 | Project Sponsor | [Sponsor Name] | ________________ | ______ |
-| Project Manager | [Project Manager Name] | ________________ | ______ |
+| Project Manager | Jennifer Johnson | ________________ | ______ |
 | PMO Lead | [Name] | ________________ | ______ |
 | Finance Representative | [Name] | ________________ | ______ |
 | Technical Lead | [Name] | ________________ | ______ |

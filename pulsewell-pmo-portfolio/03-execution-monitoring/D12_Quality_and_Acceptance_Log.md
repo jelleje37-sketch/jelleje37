@@ -4,7 +4,8 @@
 **Document Version:** 1.0  
 **Last Updated:** [Date]  
 **Project:** PulseWell Digital Intake & Client Experience Portal  
-**Prepared By:** [Author Name]  
+**Prepared By:** Jennifer Johnson  
+**Role:** Project Manager & Data Analyst  
 **Status:** Active / In Quality Review  
 
 ---
@@ -174,7 +175,7 @@ The project is currently in a controlled quality review cycle with positive evid
 | Role | Name | Signature | Date |
 |------|------|-----------|------|
 | Project Sponsor | [Sponsor Name] | ________________ | ______ |
-| Project Manager | [Project Manager Name] | ________________ | ______ |
+| Project Manager | Jennifer Johnson | ________________ | ______ |
 | QA Lead | [Name] | ________________ | ______ |
 | Technical Lead | [Name] | ________________ | ______ |
 | Compliance Lead | [Name] | ________________ | ______ |

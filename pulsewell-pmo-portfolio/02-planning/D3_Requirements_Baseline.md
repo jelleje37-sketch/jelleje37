@@ -4,7 +4,8 @@
 **Document Version:** 1.0  
 **Last Updated:** [Date]  
 **Project:** PulseWell Digital Intake & Client Experience Portal  
-**Prepared By:** [Author Name]  
+**Prepared By:** Jennifer Johnson  
+**Role:** Project Manager & Data Analyst  
 **Status:** Baseline Approved  
 
 ---
@@ -820,7 +821,7 @@ The Requirements Traceability Matrix maps each requirement to:
 | **Scope Owner/Director** | [SOD Name] | ________________ | ______ |
 | **Product/Technical Architect** | [PT/GFI Name] | ________________ | ______ |
 | **Client Leadership** | [CL Name] | ________________ | ______ |
-| **Project Manager** | [PM Name] | ________________ | ______ |
+| **Project Manager** | Jennifer Johnson | ________________ | ______ |
 
 ### Baseline Status
 
@@ -845,7 +846,7 @@ The Requirements Traceability Matrix maps each requirement to:
 
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
-| 1.0 | [Date] | [Author] | Initial Requirements Baseline Creation |
+| 1.0 | [Date] | Jennifer Johnson | Initial Requirements Baseline Creation |
 
 ---
 
