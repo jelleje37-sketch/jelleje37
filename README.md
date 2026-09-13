@@ -34,10 +34,10 @@ Data & AI Engineer focused on building reliable data pipelines, optimizing Pytho
 
 ### Project Management & Governance Portfolio
 
-* **[PulseWell Digital Intake & Client Experience Portal](https://github.com/jelleje37/pulsewell-pmo-portfolio)**
+* **[PulseWell Digital Intake & Client Experience Portal](https://github.com/jelleje37-sketch/pulsewell-pmo-portfolio)**
   * **Scope & Baseline**: Led end-to-end PMO lifecycle governance for a 14-week digital intake and client portal rollout on a $41,900 cost baseline.
   * **Artifact Architecture**: Produced complete 16-deliverable documentation suite across Initiation (D1–D2), Planning (D3–D8), Execution & Monitoring (D9–D14), and Closing (D15–D16).
-  * **Governance Controls**: Applied Earned Value Management (EVM), formal Change Control Board (CCB) evaluation for wearable health-data sync (CR-001), QA/UAT sign-offs, and Phase Gate 3 operational readiness reviews.
+  * **Governance Controls**: Applied Earned Value Management (EVM), formal Change Control Board (CCB) evaluation for wearable health-data sync (CR-001), QA/UAT sign-offs, and Phase Gate 3 operatio[...]
   * **Core Competencies**: PMBOK Lifecycle Management, RAID Logs, Agile-Waterfall Governance, Resource Allocation, and Handover Planning.
 
 ---
@@ -71,14 +71,14 @@ Data & AI Engineer focused on building reliable data pipelines, optimizing Pytho
 
 ## Data Visualization & Business Intelligence
 
-I design automated reporting systems and interactive business dashboards that convert complex ETL data streams into actionable decision support. My work focuses on analytics engineering best practices.
+I design automated reporting systems and interactive business dashboards that convert complex ETL data streams into actionable decision support. My work focuses on analytics engineering best pract[...]
 
 | Dashboard Focus | Core Architecture | Key Business Metric Impact |
 |---|---|---|
-| **Operations Dashboard & Data Automation**<br>Live Portfolio: [Tableau Public Profile](https://public.tableau.com/app/profile/jennifer.johnson8039) | **Tableau** • SQL queries • Advanced Excel | Operational efficiency tracking, KPI monitoring |
-| **Wellness & Lifecycle Cohort Audit**<br>Live Portfolio: [Data Analytics Portfolio](https://sites.google.com/view/jenniferjohnsondataanalytics/home) | **R (Tidyr, ggplot2)** • Exploratory data analysis | Health outcome segmentation |
-| **Healthcare Predictive Risk Framework**<br>Live Code: [GitHub Repository](https://github.com/jelleje37-sketch/jelleje37/blob/main/HEALTHCARE_ANALYTICS_PORTFOLIO.md) | **Python** • Feature Engineering • scikit-learn | Clinical risk stratification |
-| **E-Commerce & Digital Product KPI Tracker**<br>Live Portfolio: [Data Analytics Portfolio](https://sites.google.com/view/jenniferjohnsondataanalytics/home) | **Tableau** • Google BigQuery • Python | Revenue tracking, conversion funnel analysis |
+| **Operations Dashboard & Data Automation**<br>Live Portfolio: [Tableau Public Profile](https://public.tableau.com/app/profile/jennifer.johnson8039) | **Tableau** • SQL queries • Advanced Exc[...]
+| **Wellness & Lifecycle Cohort Audit**<br>Live Portfolio: [Data Analytics Portfolio](https://sites.google.com/view/jenniferjohnsondataanalytics/home) | **R (Tidyr, ggplot2)** • Exploratory data[...]
+| **Healthcare Predictive Risk Framework**<br>Live Code: [GitHub Repository](https://github.com/jelleje37-sketch/jelleje37/blob/main/HEALTHCARE_ANALYTICS_PORTFOLIO.md) | **Python** • Feature Eng[...]
+| **E-Commerce & Digital Product KPI Tracker**<br>Live Portfolio: [Data Analytics Portfolio](https://sites.google.com/view/jenniferjohnsondataanalytics/home) | **Tableau** • Google BigQuery • [...]
 
 **Data Operations Note:** Dashboards are engineered to ingest automated morning ETL pipeline runs (scheduled via cron/Airflow) with an expected 7:00 AM EST data readiness SLA.
 
