@@ -8,6 +8,8 @@ This portfolio package captures the project lifecycle from initiation through cl
 
 ### Core Project Profile
 
+- Baseline Status: **PulseWell v1.0 — Closed PM Simulation Baseline**
+- Closure Reference: D15 Project Closure & Handover and D16 Lessons Learned & Benefits Realization
 - Project: PulseWell Digital Intake & Client Experience Portal
 - Delivery Model: Hybrid Agile-Waterfall governance
 - Schedule Baseline: 14 weeks
@@ -88,5 +90,7 @@ The project includes a formal transition plan from the implementation team to op
 ---
 
 ## Portfolio Status
+
+**PulseWell v1.0 is the frozen closed baseline for this PM simulation.** Any future technical proof-of-concept, automation, CI/CD, or engineering work should be documented as a post-closure extension and must not be represented as part of the original v1.0 implementation.
 
 This PMO portfolio package is complete and organized to reflect the lifecycle progression of the PulseWell initiative from initiation through closure, with traceable governance artifacts and operational readiness documentation.
